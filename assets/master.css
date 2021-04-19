@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+.navbar-container {
+  background-color: #000000;
+}
+
+.contacts-icon {
+  color: #009cff;
+}
+
+.contacts-content {
+  color: #989898;
+}
+
+.navbar-list li span {
+  color: #ffffff;
+}
+
+.navbar-list li i {
+  color: #989898;
+}
